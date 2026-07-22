@@ -312,7 +312,7 @@
       position:absolute; 
       inset:0; 
        background: radial-gradient(1200px 300px at 50% 100%, rgba(0,0,0,.6), transparent 60%),
-      url('../img/img_mgcc.jpg');
+      url('../img/Scafolding.png');
       background-size:contain; background-position: top center; filter:saturate(.9) contrast(.95);
       background-repeat: no-repeat;
     }
