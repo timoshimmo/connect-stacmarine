@@ -312,7 +312,7 @@
       position:absolute; 
       inset:0; 
        background: radial-gradient(1200px 300px at 50% 100%, rgba(0,0,0,.6), transparent 60%),
-      url('../img/Scafolding.png');
+      url('../img/crankshaft2026.jpeg');
       background-size:contain; background-position: top center; filter:saturate(.9) contrast(.95);
       background-repeat: no-repeat;
     }
@@ -2904,3 +2904,9 @@ table.fx tbody tr:nth-child(even) td { background: rgba(48,130,255,0.02); }
       stroke-linecap: round;
       stroke-linejoin: round;
     }
+
+  .dropdown-column h4 {
+  border-bottom: 1px solid #d3d3d3; /* light gray */
+  padding-bottom: 6px;
+  margin-bottom: 10px;
+}
