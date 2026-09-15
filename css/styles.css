@@ -2904,3 +2904,9 @@ table.fx tbody tr:nth-child(even) td { background: rgba(48,130,255,0.02); }
       stroke-linecap: round;
       stroke-linejoin: round;
     }
+
+  .dropdown-column h4 {
+  border-bottom: 1px solid #d3d3d3; /* light gray */
+  padding-bottom: 6px;
+  margin-bottom: 10px;
+}
